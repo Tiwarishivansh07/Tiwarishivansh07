@@ -17,6 +17,8 @@
 ---
 
 ## 📊 Projects
+🌟 **[Tiwari Store Sales Dashboard](https://github.com/Tiwarishivansh07/TIWARI_STORE_SALES_ANALYSIS)**
+*Excel Dashboard to analyze regional sales, monthly trends, top product categories, and payment method breakdown.*
 
 🌟 **[Chai Tapri Sales Dashboard](https://github.com/Tiwarishivansh07/CHAI_TAPRI_ANALYSIS)**  
 *Excel dashboard to track sales trends, top locations, and customer preferences.*
