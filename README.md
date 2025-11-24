@@ -17,6 +17,15 @@
 ---
 
 ## 📊 Projects
+🌟 **[QuickBite Express 2025 Crisis Analysis & Recovery Strategy](https://github.com/Tiwarishivansh07/QuickBite_Express_Crisis_Analysis)**  
+*A complete Power BI project analyzing QuickBite's 2025 crisis with insights on customer behavior, cancellations, restaurant churn, sentiment, and recovery strategy.*
+
+🌟 **[Market Fit Research – AQI Analytics](https://github.com/Tiwarishivansh07/AQI_Analytics_Market_Fit)**  
+*Data-driven AQI market research project analyzing pollution trends, health impact, EV adoption, and competitor landscape to evaluate air purifier market-fit.*
+
+🌟 **[Flipkart Mobile Analytics – Web Scraping + Power BI Dashboard](https://github.com/Tiwarishivansh07/FLIPKART_MOBILE_ANALYSIS)**  
+*Full data analytics pipeline using Python web scraping + Power BI dashboard to analyze mobile brands, pricing, specifications, and performance insights.*
+
 🌟 **[Tiwari Store Sales Dashboard](https://github.com/Tiwarishivansh07/TIWARI_STORE_SALES_ANALYSIS)**
 *Excel Dashboard to analyze regional sales, monthly trends, top product categories, and payment method breakdown.*
 
